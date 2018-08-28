@@ -28,7 +28,7 @@
         "mocha": ">= 1.7.4",
         "zuul": ">= 0.0.1",
         "http-server": ">= 0.5.3",
-        "opener": ">= 1.1.0"
+        "opener": ">=1.5.1"
     },
     "testling": {
         "browsers": {
